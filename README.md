@@ -28,3 +28,7 @@ Se utilizaron diversas herramientas para hacer el dashboard lo más amigable pos
 - Se utilizan textos dinámicos para el cálculo de alumnos promedio por docente.
 - Se utilizan botones con marcadores para optimizar el uso de espacio dentro del dashboard.
 - Se utiliza un mapa para ubicar visualmente los diversos colegios. Adicionalmente, se implementó un tooltip personalizado para brindar mayor información de cada colegio en el mapa.
+
+A continuación, muestro la vista principal del dashboard:
+
+![Image](https://github.com/user-attachments/assets/58f637c9-fda3-465f-ae2b-64a5bd02c9fa)
