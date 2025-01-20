@@ -21,7 +21,7 @@ En la fase inicial de preparación de datos, se hizo lo siguiente:
 
 ### Implementación de Dashboard
 
-Se utilizaron diversas herramientas para hacer el dashboard lo más amigable posible con el usuario.
+Se utilizaron diversas herramientas para hacer el dashboard lo más amigable posible con el usuario:
 
 - Filtros para selección de región, nivel (Primaria, Secundaria) y gestión (Privada, Pública).
 - Se muestran los principales indicadores como número total de colegios, total de docentes, total de alumnos y proporción por género.
